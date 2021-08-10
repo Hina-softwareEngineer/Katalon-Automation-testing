@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Mapping_var</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3bfd952e-089b-43b3-ba3c-de99a5143a63</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>64857b4e-4da4-4ca0-9e02-44fbe3085aa5</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>
